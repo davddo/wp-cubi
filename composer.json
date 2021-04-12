@@ -3,6 +3,8 @@
     "description": "WordPress modern stack for developers",
     "type": "project",
     "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "homepage": "https://github.com/globalis-ms/wp-cubi",
     "authors": [
         {
